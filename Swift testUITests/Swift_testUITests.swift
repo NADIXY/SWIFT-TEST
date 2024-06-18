@@ -2,7 +2,7 @@
 //  Swift_testUITests.swift
 //  Swift testUITests
 //
-//  Created by Nadia Marina Gaspar Baptista on 18.06.24.
+//  Created by Nadia Baptista on 18.06.24.
 //
 
 import XCTest

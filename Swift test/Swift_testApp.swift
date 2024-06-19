@@ -15,6 +15,3 @@ struct Swift_testApp: App {
         }
     }
 }
-
-
-
